@@ -1,0 +1,74 @@
+# Raw data
+
+data/raw/
+
+# Database files
+
+*.db
+*.sqlite
+*.sqlite3
+
+# Python cache
+
+**pycache**/
+*.pyc
+*.pyo
+
+# Jupyter
+
+.ipynb_checkpoints/
+
+# Virtual environments
+
+venv/
+env/
+.venv/
+
+# VS Code
+
+.vscode/
+
+# Operating System
+
+.DS_Store
+Thumbs.db
+
+# Large model files
+
+*.pkl
+*.joblib
+
+# Temporary files
+
+temp/
+logs/
+
+# Raw data
+
+data/raw/
+
+# Database files
+
+*.db
+
+# Large processed files
+
+data/processed/*.csv
+
+# Power BI source file
+
+*.pbix
+
+# Large Excel outputs
+
+excel/*.xlsx
+
+# Python cache
+
+**pycache**/
+*.pyc
+
+# Jupyter checkpoints
+
+.ipynb_checkpoints/
+
