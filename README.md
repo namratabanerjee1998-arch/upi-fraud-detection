@@ -40,4 +40,4 @@ upi-fraud-detection/
 ![SHAP](reports/shap_summary.png)
 ![Real_Time_Fraud_Overview](reports/real_time_fraud_overview.png)
 ![Fraud_Pattern_Analysis](reports/fraud_pattern_analysis.png)
-![ML_Risk_Scoring_Dashboard](ml_risk_scoring_dashboard.png)
+![ML_Risk_Scoring_Dashboard](reports/ml_risk_scoring_dashboard.png)
